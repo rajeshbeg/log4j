@@ -1,0 +1,7 @@
+20:34:14.521 [main] DEBUG kotak.logDemo - When debugging something like tap on button enter key etc
+20:34:14.524 [main] INFO  kotak.logDemo - Object is present 
+20:34:14.524 [main] ERROR kotak.logDemo - Object is not present
+20:34:14.524 [main] FATAL kotak.logDemo - This is fatal
+20:37:41.803 [main] DEBUG kotak.logDemo - When debugging something like tap on button enter key etc
+20:37:41.807 [main] INFO  kotak.logDemo - Object is present 
+20:37:41.807 [main] ERROR kotak.logDemo - Object is not present
